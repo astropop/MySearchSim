@@ -4,7 +4,7 @@
         "appDescription": "MySearchSim",
         "packageName": "simthanglong.vn.app",
 		"lastModified": "18-12-2014 16:00:00",
-        "downloadUrl": "http://dev.a23.vn/stl.sqlite",
-		"dataVersion": "0"
+        "downloadUrl": "http://dev.a23.vn/stl1.sqlite",
+		"dataVersion": "1"
     }
 }
