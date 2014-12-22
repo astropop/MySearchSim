@@ -3,8 +3,8 @@
         "appName": "Search Sim",
         "appDescription": "MySearchSim",
         "packageName": "simthanglong.vn.app",
-"lastModified": "22-12-2014 09:06:00",
+		"lastModified": "22-12-2014 09:06:00",
         "downloadUrl": "http://dev.a23.vn/stl1.sqlite?r=22122014090600",
-"dataVersion": "1"
+		"dataVersion": "1"
     }
 }
