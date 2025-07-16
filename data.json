@@ -26,14 +26,14 @@
   {
     "name": "432",
     "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/29fcac88-7f40-4cbf-9993-f67e4a5fcc00",
-    "image_front":
-    "https://lh3.googleusercontent.com/pw/AP1GczOHZ5xtLrG8BuXDbdHxogrHfcIl-0NTpmxrcrUhNiDIC32TNRBRgk9Jhkdkew-znRCS3xc9zhkCQ4MAagUGrD1U_-6sptmdRtrNK6jIjVYJJqbX_Va_QAlYlRosuc_CnEinKTzMQw9__2F8hK52saye=w512-h911-s-no-gm",
-    "image_overview":
-      "https://lh3.googleusercontent.com/pw/AP1GczNT8kBujwRpwKni1dRD186H6USDqSFdZ6FGRdPejOd_Un30KYRBJQ4F_lTyTR0To3yitQTT4eC2wp6_SO3UlggadzhL50_Q5qMdiXmKaI1j57PQkWys_O91g-wBOEuIrJwL4nzX8PvxlRRlZ_BA9bbz=w512-h911-s-no-gm"
+    "image_front": "https://lh3.googleusercontent.com/pw/AP1GczOHZ5xtLrG8BuXDbdHxogrHfcIl-0NTpmxrcrUhNiDIC32TNRBRgk9Jhkdkew-znRCS3xc9zhkCQ4MAagUGrD1U_-6sptmdRtrNK6jIjVYJJqbX_Va_QAlYlRosuc_CnEinKTzMQw9__2F8hK52saye=w512-h911-s-no-gm",
+    "image_overview": "https://lh3.googleusercontent.com/pw/AP1GczNT8kBujwRpwKni1dRD186H6USDqSFdZ6FGRdPejOd_Un30KYRBJQ4F_lTyTR0To3yitQTT4eC2wp6_SO3UlggadzhL50_Q5qMdiXmKaI1j57PQkWys_O91g-wBOEuIrJwL4nzX8PvxlRRlZ_BA9bbz=w512-h911-s-no-gm"
   },
   {
     "name": "512",
-    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/c5522a4e-e2f8-4f52-8647-c79f5d8724a3"
+    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/c5522a4e-e2f8-4f52-8647-c79f5d8724a3",
+    "image_front": "",
+    "image_overview": "https://lh3.googleusercontent.com/pw/AP1GczM_CSdSQEFx24tjixfJmFmq3tancJK3c9JW1GQOwbI-6y8vDTxSLFCSPLL1K20qRcjLPD8ojtPGWZ7fa0tWL7B9UknerNokeaKMuBrm9QO6pcKe9opmLN1hF3l_hc1dMnRDBnIsXkc5Ht2_Dpmg8Tt8=w512-h911-s-no-gm"
   },
   {
     "name": "513",
@@ -57,18 +57,26 @@
   },
   {
     "name": "524",
-    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/c3dd2fe7-041e-4df3-81ed-8bdede7c6903"
+    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/c3dd2fe7-041e-4df3-81ed-8bdede7c6903",
+    "image_front": "https://lh3.googleusercontent.com/pw/AP1GczPRMPqga8n2H9M-vjyyLjlcL5BdgMfPIssqHL1gw2y6zHrww6VtAmbL9JK9dER7Cn2yjORGdm0Ww-H1SX8fBzeuFGY7yTWWJJmdJRK5jt9SxEMhfDRViHDXtKmatFMs9yRgaXSakvqCaPa3z5S0xRLH=w512-h911-s-no-gm",
+    "image_overview": "https://lh3.googleusercontent.com/pw/AP1GczOhiTxFgoJC_VxGwS5AuP6zUUJqrLy1ihbs0VWSRYHOGNDphBjr8Ki5cPN7e0inmIzNMQjXX8NF2RNwG4pER4htC6vFAuh8Ai--b5XwLNVjVSpFPR-mTn1JkUfbJC0tUmdRqruM0UrA1rdQsc8jhtS9=w1620-h911-s-no-gm"
   },
   {
     "name": "525",
-    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/8f5b3dc4-6852-4b13-85e4-9901bbbf0c22"
+    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/8f5b3dc4-6852-4b13-85e4-9901bbbf0c22",
+    "image_front": "https://lh3.googleusercontent.com/pw/AP1GczP3QnhE9Ux1sAvzYunwI8-DgMu5v4T8rJLkj1RxwI8pCLIKfgxzYWK70RO3UeDjJV60id-ynTwVxBhhCjpPN9LqubQ7GPSdWOiUlHMkXEtClu2y4D-EnmejKRXr30cHY3VEcaUnAmmvf1Z5rK8U-JVt=w512-h911-s-no-gm",
+    "image_overview": "https://lh3.googleusercontent.com/pw/AP1GczP7ohT2NhqyZU9amDScolK8WMi7Qweke-7tdbHtdpZWYMxlWyxxiCWa9ZEAD7yY8pUcmyaHNgXjjNXktdk_0ELNC01lROTHQl27NeIsFzVGsoP6JhUnQ6VJCnFS1z6dr_a7742a_JSvMyNQu-nEqMLz=w1620-h911-s-no-gm"
   },
   {
     "name": "526",
-    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/bb7c7989-4095-4412-90a9-5fc5142b97b2"
+    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/bb7c7989-4095-4412-90a9-5fc5142b97b2",
+    "image_front": "https://lh3.googleusercontent.com/pw/AP1GczOeIGTdsRjZBkRH0oZdVo1xOwGSDle9RcCzpj3njIrpxx2znvVskc2G3YzMU5i5Y9XoG-e71XJrtVRwkPjIWBiN8RnCJ3QTa-RXJI_ZlXocVHZ9-9YLAOMDFGT5DoUruDGkdBn-0gXyU9C4V3zt7IWg=w512-h911-s-no-gm",
+    "image_overview": "https://lh3.googleusercontent.com/pw/AP1GczNFagIqvmznk1lMLrP6kj6VjySh4OnCn56BNUnXp0u6TKXGTF-u3JN9qxq5DKTt95G1szxFYpWkfeTrQ7XqAIFcEPq-rhdXa_yxRYucIcb4qvQq7GBMKDh__wlFTqjsMgkh50PGsbRN9Slp_cJRHMg6=w1620-h911-s-no-gm"
   },
   {
     "name": "527",
-    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/9f107ff9-9e39-44c8-a971-d54891a7b546"
+    "url": "https://resourcebooker.flinders.edu.au/app/booking-types/e14fb159-2faf-411b-8125-70e08088b6f0/resources/9f107ff9-9e39-44c8-a971-d54891a7b546",
+    "image_front": "https://lh3.googleusercontent.com/pw/AP1GczMmWI1xIrQIYmxw5TVU0OaBYP8zjzWYXzQaZ7449dhzI_PqKhzQaH572qtbQ2WD1gX32zbYtivppAuDP_ISVOnm12707F-ZK3y1F7vWUu3UC1oaAUqVQE-hRSRO5lHoVPz2GOvjnprpgYDoOZm-PmHs=w512-h911-s-no-gm",
+    "image_overview": "https://lh3.googleusercontent.com/pw/AP1GczMy-7yujj1GMKMoxrb6uUpwqircpsolTe67sKLiSiFA9-dGndN91IOrCHPpHsazbWzYfuFsYwcI08duERTOC3D9iU_QZpMe_PI3S3n4D48OfFU9B5ro7zY1ke_VgzrLmGi_WUxuEqmDt7dzKm6Eimxq=w1620-h911-s-no-gm"
   }
 ]
